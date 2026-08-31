@@ -1,3 +1,4 @@
+
 # Todo App
 
 A simple and interactive Todo application built with React, HTML, CSS, and JavaScript to help users manage their daily tasks efficiently.
@@ -56,4 +57,7 @@ Contributions, issues, and feature requests are welcome.
 
 ## 📄 License
 
-This project is open source and available for learning purposes.
+This project is open source and available for learning purposes
+# TaskFlow
+A simple and interactive Todo app built with React, HTML, CSS, and JavaScript.
+
